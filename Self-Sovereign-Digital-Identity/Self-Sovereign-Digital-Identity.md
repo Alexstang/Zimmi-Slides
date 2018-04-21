@@ -34,8 +34,8 @@ Does (social media / telecom) recognize your identity?
     * Credit Agencies
 * KYC
     * Utilities
-    *KYC Services
-    *Banks
+    * KYC Services
+    * Banks
 * Medical records
     * Hospitals
     * Private DBs
@@ -60,7 +60,7 @@ Does (social media / telecom) recognize your identity?
 
 ### Your digital identity is owned and controlled by anyone but you.
 
-!(Meme](https://github.com/Alexstang/Zimmi-Slides/blob/master/Self-Sovereign-Digital-Identity/ComputerMeme.jpg)
+![Meme](https://github.com/Alexstang/Zimmi-Slides/blob/master/Self-Sovereign-Digital-Identity/ComputerMeme.jpg)
 
 ### *Become the primary source of your digital data by self-publishing on the blocktree with third party witnesses.*
 
