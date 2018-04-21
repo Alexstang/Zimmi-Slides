@@ -1,5 +1,7 @@
 # Zimmi-Slides
 
+## [Self-Sovereign Digitial Identity](https://github.com/Alexstang/Zimmi-Slides/blob/master/Self-Sovereign-Digital-Identity/Self-Sovereign-Digital-Identity.md)
+
 ## [Human Smart Contracts](https://github.com/Alexstang/Zimmi-Slides/blob/master/Human-Smart-Contracts.md)
 
 ## [guld Ledger](https://github.com/Alexstang/Zimmi-Slides/blob/master/Guld-Ledger.md)
