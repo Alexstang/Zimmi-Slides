@@ -16,7 +16,7 @@
 
 ## [Consensus & Governance](https://github.com/Alexstang/Zimmi-Slides/blob/master/Consensus-and-Governance/Consensus-and-Governance.md)
 
-## [Plain & Simple Smart Contracts](
+## [Plain & Simple Smart Contracts](https://github.com/Alexstang/Zimmi-Slides/blob/master/Plain-and-Simple-Smart-Contracts/Plain-And-Simple-Smart-Contracts.md)
 
 ## [P2Pre-nup](
 
